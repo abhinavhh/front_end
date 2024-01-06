@@ -72,7 +72,7 @@ ul li.checked{
     text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url(/webdevelopment/image/tickbox.png);
+    background-image: url(https://github.com/06abhinav123/front_end/blob/2af9a1ec13245de4e534bf591b6a48e59f8f39a8/tickbox.png);
 }
 ul li span{
     position: absolute;
