@@ -3,7 +3,7 @@
 Users can add,edit,and delete tasks on their todo list.</p>
 <h2>GETTING STARTED</h2>
 <br>
-To use this website
+To use this website simply click on this <a href=""></a>
 
 
 
