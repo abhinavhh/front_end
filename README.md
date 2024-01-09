@@ -18,7 +18,6 @@ To use this website simply click on this <a href="https://06abhinav123.github.io
 If you would like to contibute to this project , feel free to fork this repository and make changes as you see fit.<br>
 Pull requests are welcomed.<br>
 <h2>AUTHOR</h2>
-<br>
 ABHINAV ANIL ..
 
 
