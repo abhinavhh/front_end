@@ -2,7 +2,7 @@
 <p>This is a simple todo list website built using HTML,CSS and javascript.
 Users can add,edit,and delete tasks on their todo list.</p>
 <h2>GETTING STARTED</h2>
-To use this website simply click on this <a href="https://06abhinav123.github.io/front_end/todolist">goto website</a>.
+To use this website simply click on this <a href="https://abhinavhh.github.io/front_end/todolist">goto website</a>.
 <br>You can then..
 <li>1. Add tasks</li>
 <li>2. Mark them as complete --by clicking on the list name</li>
